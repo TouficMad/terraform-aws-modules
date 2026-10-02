@@ -1,6 +1,6 @@
 # Terraform AWS Modules
 
-Reusable Terraform modules for AWS (VPC, EC2, S3, IAM), wired together into separate **dev** and **prod** environments and shipped through a **GitHub Actions** pipeline that checks, plans and applies the changes.
+Reusable Terraform modules for AWS (VPC, EC2, S3, IAM), wired together into separate **dev** and **prod** environments and shipped through a **GitHub Actions** pipeline that checks and plans and applies the changes.
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
